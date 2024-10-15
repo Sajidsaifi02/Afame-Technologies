@@ -12,6 +12,7 @@ This project analyzes sales data to identify patterns, trends, and best-selling 
 - Visualizations for better understanding of sales data.
 
 ## HR Data Analysis
+
 # Features
 - Data cleansing involves removing unnecessary columns.
 - Giving the columns new names.
