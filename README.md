@@ -21,5 +21,7 @@ This project analyzes sales data to identify patterns, trends, and best-selling 
 - Eliminate the dataset's NaN values.
 - Look for a few more changes if necessary
 
+## TITANIC SURVIVAL PREDICTION
+This project aims to predict whether a passenger aboard the RMS Titanic survived or not, using a dataset containing demographic and other information about individual passengers. The Titanic's sinking on April 15, 1912, resulted in the loss of 1502 lives out of 2224 passengers and crew. The goal is to create a machine learning model that predicts survival based on features like passenger age, gender, class, and fare.
 
 # git clone https://github.com/Sajidsaifi02/Afame-Technologies.git
